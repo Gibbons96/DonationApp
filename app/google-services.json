@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422222119547",
+    "project_id": "donationapp-6817a",
+    "storage_bucket": "donationapp-6817a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422222119547:android:aa6fa3a51587dad0fe98de",
+        "android_client_info": {
+          "package_name": "com.donationtracker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422222119547-lc7pk034gc8kv2s0397suau7bqri6osp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donationtracker.app",
+            "certificate_hash": "93102ba9ad70c83650bbf07d1c3bcc4d6ac2db90"
+          }
+        },
+        {
+          "client_id": "422222119547-v9mfuhbjbjeum6u8t5v2baepqs04jgb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsV1K0tGOqjcQUsaqv9UTpP55E9byQ7-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422222119547-v9mfuhbjbjeum6u8t5v2baepqs04jgb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
